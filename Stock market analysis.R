@@ -1,3 +1,4 @@
+#Author :Manglam Tripathi
 install.packages("quantmod")
 
 library(quantmod)
